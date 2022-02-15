@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## Senior Systems Administrator - UCL ISD
+## Senior Systems Administrator
+## UCL ISD
 
 <!--
 **ccaabrw/ccaabrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
