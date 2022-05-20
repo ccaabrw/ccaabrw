@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 ## Senior Systems Administrator
 ## UCL ISD
