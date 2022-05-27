@@ -7,7 +7,8 @@ Test webpages:
 
 https://ccaabrw.github.io
 
-Search for repos in the org:
+Search for repos tagged with topic:
+
 [cloud](https://github.com/search?q=org%3Aucl-isd+topic%3Acloud&type=Repositories)
 
 
