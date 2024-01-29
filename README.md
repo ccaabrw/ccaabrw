@@ -9,7 +9,7 @@ Test webpages:\
 https://ccaabrw.github.io
 -->
 
-Search for repos tagged with topic:\
+Search for repos tagged with a topic:\
 [cloud](https://github.com/search?q=org%3Aucl-isd+topic%3Acloud&type=Repositories)
 
 
