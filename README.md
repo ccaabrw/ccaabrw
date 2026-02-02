@@ -13,6 +13,8 @@ Search for repos tagged with a topic:\
 [cloud](https://github.com/search?q=org%3Aucl-isd+topic%3Acloud&type=Repositories)
 
 
+![Attack!](./ccaabrw-space-shooter.gif "My commits")
+
 <!--
 **ccaabrw/ccaabrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
